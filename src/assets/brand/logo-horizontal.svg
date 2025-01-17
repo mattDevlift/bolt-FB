@@ -1,0 +1,7 @@
+<!-- Horizontal brand logo -->
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20h25c0 0 35 0 35 30v25c0 0 0 5-5 5h-25c0 0-35 0-35-30v-25c0 0 0-5 5-5z" fill="#151545"/>
+  <path d="M45 20h35c0 0 0 5-5 5h-25c0 0-5 0-5-5z" fill="#151545"/>
+  <path d="M80 45v35c0 0-5 0-5-5v-25c0 0 0-5 5-5z" fill="#151545"/>
+  <path d="M120 35h260c0 0 0 30 0 30h-260z" fill="#151545"/>
+</svg>
